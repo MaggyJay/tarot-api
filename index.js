@@ -5,6 +5,11 @@ let app = express();
 
 //Use the express Router object, we need to be able to 'route' to things
 let router = express.Router();
+let pies = [
+    { "id": 1, "name": "Apple"},
+    { "id": 2, "name": "Cherry"},
+    { "id": 3, "name": "Peach"},
+];
 
 //Create GET to return a list of all tarot cards
 router.get('/', function (req, res, next) {
