@@ -28,8 +28,8 @@ Sample
 }
 ```
 Wheel of Fortune Tarot Card
-<img src = "/assets/1910tarot/10wheel.jpg" width= "300">
+<img src = "/assets/1910tarot/10wheel.jpg" width= "150">
 
 Numerology Deck
-<img src = "/assets/numerologydeck/numdeck1.png" width= "300">
+<img src = "/assets/numerologydeck/numdeck1.png" width= "150">
 
