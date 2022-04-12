@@ -28,5 +28,5 @@ Sample
 }
 ```
 Wheel of Fortune Tarot Card
-![alt text](/assets/1910tarot/10wheel.jpg "Wheel of Fortune")
+![alt text](/assets/1910tarot/10wheel.jpg|width=100 "Wheel of Fortune")
 
