@@ -27,9 +27,7 @@ Sample
     ]
 }
 ```
-Wheel of Fortune Tarot Card
-<img src = "/assets/1910tarot/10wheel.jpg" width= "150">
-
-Numerology Deck
+Wheel of Fortune
+<img src = "/assets/1910tarot/10wheel.jpg" width= "150"> Numerology Deck
 <img src = "/assets/numerologydeck/numdeck1.png" width= "150">
 
