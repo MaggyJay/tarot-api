@@ -28,6 +28,7 @@ Sample
 }
 ```
 Wheel of Fortune Tarot Card
-![alt text](/assets/1910tarot/10wheel.jpg "Wheel of Fortune")
-<img src = "/assets/1910tarot/10wheel.jpg" width= "500">
+<img src = "/assets/1910tarot/10wheel.jpg" width= "300">
+Numerology Deck
+<img src = "/assets/numerologydeck/numdeck1.png">
 
